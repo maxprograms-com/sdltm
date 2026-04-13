@@ -10,12 +10,9 @@
         "declaration": true,
         "outDir": "./dist",
         "rootDir": "./ts",
-        "baseUrl": ".",
-        "paths": {
-            "*": [
-                "node_modules/*"
-            ]
-        },
+        "types": [
+            "node"
+        ],
         "strict": true
     },
     "include": [
