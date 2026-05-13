@@ -1,6 +1,6 @@
 {
   "name": "sdltm",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "TypeScript library for converting SDLTM files to TMX 1.4",
   "author": {
     "name": "Rodolfo M. Raya",
@@ -29,9 +29,9 @@
   },
   "devDependencies": {
     "typescript": "^6.0.3",
-    "@types/node": "^24.12.2"
+    "@types/node": "^24.12.4"
   },
   "dependencies": {
-    "typesxml": "^2.0.0"
+    "typesxml": "^2.1.0"
   }
 }
